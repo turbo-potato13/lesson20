@@ -78,7 +78,7 @@
                     <server>TomcatServer</server>
                     <username>admin</username>
                     <password>password</password>
-                    <path>/jwebapp</path>
+                    <path>/lesson20</path>
                     <update>true</update>
                 </configuration>
             </plugin>
